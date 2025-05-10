@@ -1,0 +1,13 @@
+{
+  "_id": "#string",
+  "FirstName": "#string",
+  "LastName": "#string",
+  "DateOfBirth": "#string",
+  "StartDate": "#string",
+  "Department": "#string",
+  "JobTitle": "#string",
+  "Email": "#string",
+  "Mobile": "#string",
+  "Address": "#string",
+  "BaseSalary": "#number"
+}
