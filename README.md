@@ -16,7 +16,7 @@ This repository showcases how to implement and automate CRUD operations using
 
   Data-Driven Testing: Easily test multiple scenarios with different data sets.
 
-  Assertions: Built-in support for JSON and XML assertions.
+  Assertions: Built-in support for JSON  assertions.
 
   Reporting: Generates detailed HTML reports post test execution. genearted in target/karate-reports/karate-summary.html
 
