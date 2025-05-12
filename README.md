@@ -20,7 +20,7 @@ This repository showcases how to implement and automate CRUD operations using
 
   Reporting: Generates detailed HTML reports post test execution. genearted in target/karate-reports/karate-summary.html
 
-  Can be integrated to CID pipe line using mvn clean test in build steps
+  Can be integrated to CICD pipe line using mvn clean test in build steps
 
 
 **  How to run ?**
